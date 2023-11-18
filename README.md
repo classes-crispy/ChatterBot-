@@ -1,1 +1,1 @@
-# ChatterBot-
+This code uses the ChatterBot library to create a simple chatbot. The chatbot is trained on English language data using the ChatterBotCorpusTrainer. The chat_with_bot function allows users to interact with the chatbot by typing messages, and the chatbot responds accordingly. The conversation ends when the user types 'exit'.
